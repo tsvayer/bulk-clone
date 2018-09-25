@@ -13,7 +13,7 @@
 ## Install
 
 ```fish
-$ omf install bulk-clone
+$ omf install https://github.com/tsvayer/bulk-clone
 ```
 
 ## Usage
